@@ -1,3 +1,2 @@
-#My app
-
+#MyApp
 This is my App
